@@ -3,7 +3,7 @@ name: Vivek Vikani
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -80,12 +80,12 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+# projects: false
 
 # if you don't need "about" or "blog", comment them out below
-now: true
 about: true
 blog: false
+now: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
