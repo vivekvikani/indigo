@@ -8,6 +8,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Learning [Docker](https://www.docker.com/).
-* Reading [The DESIGN of EVERYDAY THINGS](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald A. Norman.
+* Reading [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald A. Norman.
 
 Last Updated: ***September 04, 2020***
